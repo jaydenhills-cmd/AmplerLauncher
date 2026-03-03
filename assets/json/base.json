@@ -1,5 +1,12 @@
 [
     {
+       "title": "Best release",
+       "version": "1.20.1",
+       "icon": "./assets/images/mc-icons/grass.png",
+       "link": "./mc/1.20.1/",
+       "active": true
+    },
+    {
        "title": "Latest release",
        "version": "1.12.2-u2",
        "icon": "./assets/images/mc-icons/grass.png",
