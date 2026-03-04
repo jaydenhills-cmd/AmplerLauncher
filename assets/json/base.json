@@ -3,7 +3,7 @@
        "title": "Best release",
        "version": "1.20.1",
        "icon": "./assets/images/mc-icons/grass.png",
-       "link": "./mc/1.20.1/",
+       "link": "https://client.eaglercraft.win/eagler-files/modded/1.8/EaglyMC/index.html",
        "active": true
     },
     {
